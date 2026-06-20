@@ -1,0 +1,6 @@
+{
+  "name": "Apex Rider",
+  "description": "An immersive offline 2D physics bike racing game. Unlock and customize powerful bikes, upgrade performance specs (Engine, Tyres, Shocks, Weight), master stunt flips, and conquer challenging terrain tracks from Desert Canyons to Neo-Tokyo Grids!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
